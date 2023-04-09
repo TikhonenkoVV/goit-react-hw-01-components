@@ -1,0 +1,11 @@
+.item {
+    text-align: center;
+    height: 40px;
+    background-color: #fff;
+    color: #939496;
+    text-transform: capitalize;
+}
+
+.item:nth-child(2n) {
+    background-color: #ecf1f4;
+}

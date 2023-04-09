@@ -1,0 +1,19 @@
+.stats-item {
+    flex-basis: calc(100% / 3);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid #eaeef3;
+    background-color: #f3f6f9;
+}
+
+.label,
+.quantity {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.label {
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
